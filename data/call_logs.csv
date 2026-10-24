@@ -1,0 +1,9 @@
+call_id,agent_id,customer_text,speech_tempo_bpm,pitch_mean_hz,energy_rms,duration_sec,actual_stress_level
+C001,AG101,"I have been trying to reach support for three days and my service is still down this is unacceptable!",145,210,0.085,120,High
+C002,AG102,"Thank you so much for your help today, you resolved my issue very quickly.",95,130,0.032,85,Low
+C003,AG103,"I want to cancel my subscription immediately, nobody is listening to my requests.",130,195,0.072,104,High
+C004,AG101,"Can you tell me what my current account balance is please?",100,140,0.040,45,Low
+C005,AG104,"This is the fourth time I am calling about the incorrect billing charge on my invoice.",150,225,0.091,150,High
+C006,AG102,"Okay, I understand. Could you please send me the email confirmation?",105,145,0.038,60,Low
+C007,AG105,"My internet keeps dropping every five minutes during my work hours!",140,205,0.080,110,High
+C008,AG103,"Everything is working fine now, thanks for checking in.",90,125,0.030,50,Low
